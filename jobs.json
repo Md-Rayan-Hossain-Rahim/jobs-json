@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/LQ9KBwt/Rectangle-4284-1.png",
+    "details_img": "https://i.ibb.co/MBPCBk6/Rectangle-4284-1-1-700x435-10000.png",
+    "title": "Clean water for children",
+    "name": "Health",
+    "color": "red",
+    "details": " Your health is your very most valuable asset, so invest in it with care and intention. By making conscious decisions today, you pave the way for a vibrant and fulfilling tomorrow.To nurture your health, make mindful choices each day. Prioritize balanced nutrition, regular exercise, and adequate rest. Don't forget the importance of mental health, too practice self-care and seek support when needed."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/yN20DDJ/Rectangle-4284.png",
+    "details_img":"https://i.ibb.co/wcd5CRz/Rectangle-4284-900x560-10.png",
+    "title": "Good education",
+    "name": "Education",
+    "color": "blue",
+    "details": "Education is the key to unlocking the boundless potential within each of us. It's not merely the acquisition of knowledge but the cultivation of curiosity, critical thinking, and a lifelong love of learning."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/vswYkc3/Clothing.png",
+    "details_img": "https://i.ibb.co/Nx29d8Y/Clothing-1-900x560-10.png",
+    "title": "Used Clothing Drive",
+    "name": "Clothing",
+    "color": "green",
+    "details": "Clothing is more than just fabric; it's a reflection of our identity and a means of self-expression. What we wear can convey our personality, culture, and values. It's a canvas for creativity and style."
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/5FYnnBT/Rectangle-42.png",
+    "details_img": "https://i.ibb.co/G5BXMfk/Rectangle-42-900x560-10.png",
+    "title": "Better Food for Everyone",
+    "name": "Food",
+    "color": "yellow",
+    "details": "Food is not just sustenance; it's a source of pleasure, culture, and nourishment for the body and soul. Every meal is an opportunity to savor the flavors of the world, connect with others, and promote well-being."
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/5FYnnBT/Rectangle-42.png",
+    "details_img": "https://i.ibb.co/G5BXMfk/Rectangle-42-900x560-10.png",
+    "title": "Better Food for Everyone",
+    "name": "Food",
+    "color": "purple",
+    "details": "Food is not just sustenance; it's a source of pleasure, culture, and nourishment for the body and soul. Every meal is an opportunity to savor the flavors of the world, connect with others, and promote well-being."
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/vswYkc3/Clothing.png",
+    "details_img": "https://i.ibb.co/Nx29d8Y/Clothing-1-900x560-10.png",
+    "title": "Used Clothing Drive",
+    "name": "Clothing",
+    "color": "orange",
+    "details": "Clothing is more than just fabric; it's a reflection of our identity and a means of self-expression. What we wear can convey our personality, culture, and values. It's a canvas for creativity and style."
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/ngc6Whr/Education.png",
+    "details_img":"https://i.ibb.co/wcd5CRz/Rectangle-4284-900x560-10.png",
+    "title": "Good education",
+    "name": "Education",
+    "color": "pink",
+    "details": "Education is the key to unlocking the boundless potential within each of us. It's not merely the acquisition of knowledge but the cultivation of curiosity, critical thinking, and a lifelong love of learning."
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/LQ9KBwt/Rectangle-4284-1.png",
+    "details_img": "https://i.ibb.co/MBPCBk6/Rectangle-4284-1-1-700x435-10000.png",
+    "title": "Clean water for children",
+    "name": "Health",
+    "color": "red",
+    "details": " Your health is your most valuable asset, so invest in it with care and intention. By making conscious decisions today, you pave the way for a vibrant and fulfilling tomorrow.To nurture your health, make mindful choices each day. Prioritize balanced nutrition, regular exercise, and adequate rest. Don't forget the importance of mental health, too practice self-care and seek support when needed."
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/LQ9KBwt/Rectangle-4284-1.png",
+    "details_img": "https://i.ibb.co/MBPCBk6/Rectangle-4284-1-1-700x435-10000.png",
+    "title": "Clean water for children",
+    "name": "Health",
+    "color": "gray",
+    "details": " Your health is your most valuable asset, so invest in it with care and intention. By making conscious decisions today, you pave the way for a vibrant and fulfilling tomorrow.To nurture your health, make mindful choices each day. Prioritize balanced nutrition, regular exercise, and adequate rest. Don't forget the importance of mental health, too practice self-care and seek support when needed."
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/ngc6Whr/Education.png",
+    "details_img":"https://i.ibb.co/wcd5CRz/Rectangle-4284-900x560-10.png",
+    "title": "Good education",
+    "name": "Education",
+    "color": "cyan",
+    "details": "Education is the key to unlocking the boundless potential within each of us. It's not merely the acquisition of knowledge but the cultivation of curiosity, critical thinking, and a lifelong love of learning."
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co/vswYkc3/Clothing.png",
+    "details_img": "https://i.ibb.co/Nx29d8Y/Clothing-1-900x560-10.png",
+    "title": "Used Clothing Drive",
+    "name": "Clothing",
+    "color": "magenta",
+    "details": "Clothing is more than just fabric; it's a reflection of our identity and a means of self-expression. What we wear can convey our personality, culture, and values. It's a canvas for creativity and style."
+  },
+  {
+    "id": 12,
+    "img": "https://i.ibb.co/5FYnnBT/Rectangle-42.png",
+    "details_img": "https://i.ibb.co/G5BXMfk/Rectangle-42-900x560-10.png",
+    "title": "Better Food for Everyone",
+    "name": "Food",
+    "color": "teal",
+    "details": "Food is not just sustenance; it's a source of pleasure, culture, and nourishment for the body and soul. Every meal is an opportunity to savor the flavors of the world, connect with others, and promote well-being."
+  }
+]
